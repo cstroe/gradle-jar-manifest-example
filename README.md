@@ -18,6 +18,7 @@ Implementation-Version: 0.0.1
 * [groovy-dsl](https://github.com/cstroe/gradle-jar-manifest-example/tree/groovy-dsl) - Groovy DSL
 * [kotlin-dsl](https://github.com/cstroe/gradle-jar-manifest-example/tree/kotlin-dsl) - Kotlin DSL
 * [buildconfig-plugin](https://github.com/cstroe/gradle-jar-manifest-example/tree/buildconfig-plugin) - Using buildconfig plugin
+* [buildconfig-plugin-kotlin-dsl](https://github.com/cstroe/gradle-jar-manifest-example/tree/buildconfig-plugin-kotlin-dsl) - Using buildconfig plugin with Kotlin DSL
 
 ## Links
 
