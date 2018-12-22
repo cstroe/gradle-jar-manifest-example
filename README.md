@@ -13,6 +13,11 @@ Implementation-Title: gradle-jar-manifest-example
 Implementation-Version: 0.0.1
 ```
 
+## Branches
+
+* [groovy-dsl](https://github.com/cstroe/gradle-jar-manifest-example/tree/groovy-dsl) - Groovy DSL
+* [kotlin-dsl](https://github.com/cstroe/gradle-jar-manifest-example/tree/kotlin-dsl) - Kotlin DSL
+
 ## Links
 
 * [Reading my own Jar's Manifest](https://stackoverflow.com/questions/1272648/reading-my-own-jars-manifest)
